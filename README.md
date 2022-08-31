@@ -13,9 +13,9 @@
   - Pans from one ear to the other depending on where the panorama view is
 - Special UI Prop that creates an interactive gui that is part of the panorama
   - UI elements can run gml functions when interacted with
-  - Option to appear above or behind the base panorama image
 - Special Video Props that play videos and gifs that is part of the panorama
   - Option to appear above or behind the base panorama image
 - Full Layering Capabilities for Sprite, UI, and Video Props
+  - All props can be set to appear over or under another prop (including the base panorama)
 - Full Scriptability for all props
   - Ability to change all parameters of props in gml code
