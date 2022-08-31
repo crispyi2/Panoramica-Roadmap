@@ -3,9 +3,6 @@
 
 ## General Features
 
-- Full Panorama Configurability
-    - 
-
 ## Props System
 
 - Special Sprite Prop
