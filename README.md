@@ -1,6 +1,12 @@
 # Panoramica-Roadmap
 ### [Panoramica Repository](https://github.com/time-killer-games/Panoramica)
 
+## Area System (frame system overhaul)
+
+- Frames, Props, Hotspots, and Sounds will now be stored in .json files for a given area
+  - run.ini will now be used to for setup purposes
+    - Window Size and Location
+
 ## General Features
 
 ## Props System
