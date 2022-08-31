@@ -19,11 +19,11 @@
     - If it's in Debug mode or not
     - If it uses Panorama Mode or not
  - Full IDE for easily Creating and Editing areas
-  - Full transform controls for Props and Hotspots
-  - Setting area frames
-  - Asset Browser
-    - Importing Audio, Video, and Image files for use as props
-  - Export as an Area folder
+    - Full transform controls for Props and Hotspots
+    - Setting area frames
+    - Asset Browser
+      - Importing Audio, Video, and Image files for use as props
+    - Export as an Area folder
 
 ## General Features
 
