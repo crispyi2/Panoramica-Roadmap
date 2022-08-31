@@ -1,6 +1,10 @@
 # Panoramica-Roadmap
 ### [Panoramica Repository](https://github.com/time-killer-games/Panoramica)
 
+## General Features
+
+- Full Panorama Configurability
+    - 
 
 ## Props System
 
